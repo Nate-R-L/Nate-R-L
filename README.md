@@ -1,6 +1,4 @@
-Hi, I'm Nate 👋
-
-## :man_scientist: by day, :technologist: by night 
+Learning by doing 👨‍💻 
 
 
 
